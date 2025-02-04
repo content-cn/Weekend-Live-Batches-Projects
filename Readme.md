@@ -1,6 +1,6 @@
-# 🎉 Weekend Live Batches - Projects Showcase
+# 🎉 Weekend Live Batches - Projects 
 
-Welcome to the **Weekend Live Batches Projects Showcase**! 🚀 Here, you’ll discover all the amazing projects created by our talented students during the weekend live batch sessions. Whether you're just getting started or looking to sharpen your skills, this is your one-stop hub to explore and learn from hands-on, real-world projects! 💻
+Welcome to the **Weekend Live Batches Projects **! 🚀 Here, you’ll discover all the amazing projects created by our talented students during the weekend live batch sessions. Whether you're just getting started or looking to sharpen your skills, this is your one-stop hub to explore and learn from hands-on, real-world projects! 💻
 
 ## 🌟 Explore Our Projects
 
