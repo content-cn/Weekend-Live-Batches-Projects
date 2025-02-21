@@ -9,7 +9,7 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
 ### 🚀 **HTML/CSS Projects** 🌟
 
 1. **[Event Invitation Page](https://github.com/content-cn/Event-Invitation-Page)**  
-   🍽️ **Tech Stack**: HTML, CSS 
+   📅 **Tech Stack**: HTML, CSS 
    An Event Invitation Page with a clean and structured design, featuring event details like title, date, time, venue, and an RSVP button. Styled with CSS for a visually appealing layout!
    
 1. **[Digital Business Card](https://github.com/content-cn/Digital-Business-Card)**  
@@ -21,7 +21,7 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
 ### 🚀 **Frontend Projects** 🌟
 
 1. **[Restaurant Menu Application](https://github.com/content-cn/Restaurant-menu-app)**  
-   🍽️ **Tech Stack**: HTML, CSS, JavaScript  
+   💼 **Tech Stack**: HTML, CSS, JavaScript  
    An interactive and stylish restaurant menu app with a shopping cart, dynamic item display, and a great user interface. Perfect for learning frontend design and DOM manipulation!
 
 
