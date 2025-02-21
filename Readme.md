@@ -13,7 +13,7 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
    An Event Invitation Page with a clean and structured design, featuring event details like title, date, time, venue, and an RSVP button. Styled with CSS for a visually appealing layout!
    
 1. **[Digital Business Card](https://github.com/content-cn/Digital-Business-Card)**  
-   🍽️ **Tech Stack**: HTML, CSS 
+   💼 **Tech Stack**: HTML, CSS 
    A Digital Business Card with a clean and modern design, showcasing a profile image, name, designation, and contact details. Styled with CSS for a professional look, making it easy to share and present!
 
 ---
