@@ -55,6 +55,10 @@ Crypto Tracker is a web application that allows users to track the latest crypto
 2. **[Ecommerce Project - Backend](https://github.com/content-cn/WLC-Backend-E-comm)**  
    🔧 **Tech Stack**: Node.js, Express.js, MongoDB, JWT  
    Backend functionality for an e-commerce site with product management, order processing, and user authentication.
+3. **[Springboot-Property-Listing-Platform](https://github.com/content-cn/Springboot-Property-Listing-Platform)**  
+   🔧 **Tech Stack**: Java, Spring boot, MySQL, HTML/CSS,Thymeleaf <br>
+   The Springboot Property Listing Platform is a web application designed to facilitate the listing and management of properties for sale or rent. This platform provides users with an intuitive interface to browse, search, and manage property listings effectively.
+
 
  
 ---
