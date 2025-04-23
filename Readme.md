@@ -65,9 +65,9 @@ Crypto Tracker is a web application that allows users to track the latest crypto
 
 ### 💻 **React Projects** 🖥️
 
-1. **[IRCTC Clone](https://github.com/content-cn/IRCTC-Clone-REACT)**  
-   🚆 **Tech Stack**: React, Firebase, CSS  
-   A React-based IRCTC clone for train bookings, with a modern and responsive design.
+1. **[IRCTC Clone](https://github.com/content-cn/IRCTC-Clone)**  
+   🚆 **Tech Stack**: ReactJs, Firebase, CSS <br> 
+  The IRCTC Clone is a web application that mimics the functionality of the Indian Railway Catering and Tourism Corporation (IRCTC) website. This platform allows users to search for train schedules, book tickets, and manage their bookings. It aims to provide a seamless experience for users looking to travel via Indian Railways.
 
  
 ---
