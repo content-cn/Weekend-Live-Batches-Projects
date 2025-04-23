@@ -12,9 +12,12 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
    📅 **Tech Stack**: HTML, CSS 
    An Event Invitation Page with a clean and structured design, featuring event details like title, date, time, venue, and an RSVP button. Styled with CSS for a visually appealing layout!
    
-1. **[Digital Business Card](https://github.com/content-cn/Digital-Business-Card)**  
+2. **[Digital Business Card](https://github.com/content-cn/Digital-Business-Card)**  
    💼 **Tech Stack**: HTML, CSS 
    A Digital Business Card with a clean and modern design, showcasing a profile image, name, designation, and contact details. Styled with CSS for a professional look, making it easy to share and present!
+3. **[Car-Dealership-landing-page](https://github.com/content-cn/Car-Dealership-landing-page)**  
+   💼 **Tech Stack**: HTML, CSS 
+  The Car Dealership Landing Page is a responsive web application designed to showcase car listings and provide potential customers with an engaging user experience. This project utilizes HTML and CSS to create a visually appealing layout that is easy to navigate.
 
 ---
 
