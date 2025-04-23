@@ -32,7 +32,7 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
 
 
 2. **[Crypto Tracker](https://github.com/content-cn/Crypto-Tracker)**  
-   📊 **Tech Stack**: HTML, CSS, JavaScript,Chartjs
+   📊 **Tech Stack**: HTML, CSS, JavaScript,Chartjs <br>
 Crypto Tracker is a web application that allows users to track the latest cryptocurrency prices, view details of individual coins, and manage a list of favorite coins. The application provides a user-friendly interface to explore the cryptocurrency market and make informed decisions.
 
 
