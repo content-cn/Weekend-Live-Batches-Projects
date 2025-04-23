@@ -32,11 +32,11 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
 
 
 2. **[Crypto Tracker](https://github.com/content-cn/Crypto-Tracker)**  
-   📊 **Tech Stack**: HTML, CSS, JavaScript, API Integration  
-   A live cryptocurrency tracking app that allows users to view real-time data and track market trends.
+   📊 **Tech Stack**: HTML, CSS, JavaScript,Chartjs
+Crypto Tracker is a web application that allows users to track the latest cryptocurrency prices, view details of individual coins, and manage a list of favorite coins. The application provides a user-friendly interface to explore the cryptocurrency market and make informed decisions.
 
 
-3. **[Ecommerce Project](https://github.com/content-cn/WLC_Frontend_Ecomm)**  
+4. **[Ecommerce Project](https://github.com/content-cn/WLC_Frontend_Ecomm)**  
    🛒 **Tech Stack**: HTML, CSS, JavaScript, Bootstrap  
    A fully functional e-commerce website frontend with product listings, shopping cart, and authentication.
 
