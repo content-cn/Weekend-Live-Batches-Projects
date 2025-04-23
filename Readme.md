@@ -18,6 +18,9 @@ Welcome to the **Weekend Live Batches Projects**! 🚀 Here, you’ll discover a
 3. **[Car-Dealership-landing-page](https://github.com/content-cn/Car-Dealership-landing-page)**  
    💼 **Tech Stack**: HTML, CSS 
   The Car Dealership Landing Page is a responsive web application designed to showcase car listings and provide potential customers with an engaging user experience. This project utilizes HTML and CSS to create a visually appealing layout that is easy to navigate.
+4. **[Property-Advertisement-Landing-Page](https://github.com/content-cn/Property-Advertisement-Landing-Page)**  
+   💼 **Tech Stack**: HTML, CSS 
+ The Property Advertisement Landing Page is a responsive web application designed to showcase property listings for potential buyers and renters. This project utilizes HTML and CSS to create an attractive and user-friendly interface
 
 ---
 
